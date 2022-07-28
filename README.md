@@ -4,7 +4,7 @@ This website is built with a React frontend and a Django + SQLite backend.
 The Django REST API is also used the the application isn't entirely RESTful.
 It is meant to be used as a record of the TV shows that a user has watched.
 
-## To start:
+## To Run:
 Go into the directory for the django project, type "python manage.py runserver"
 
 ## How to Use
